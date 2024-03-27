@@ -164,6 +164,7 @@ cython_debug/
 .idea/
 
 not_needed
-quiz.service
-server.txt
+not_needed/quiz.service
+not_needed/server.txt
 test.log
+env.py

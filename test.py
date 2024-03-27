@@ -5,7 +5,7 @@ import random
 import requests
 #import test
 import re
-from not_needed import env
+import env
 from random import sample
 # from time import sleep, time
 # from functools import wraps
