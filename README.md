@@ -1,4 +1,25 @@
-# reverso_context_api
+# It's quiz telegram bot with API Reverso_Context
+
+You need to connect your reverso context accout to this bot and you'll get words from your favorite list.
+Now this bot works only with Russian and English dictionary. 
+You'll get words in Russian transation and you need to choose correct option in English. The English words will be as the same.
+
+You can use command /help for choose correct quiz command. You need to pick command every time after each question.
+
+List of commands:
+```
+/eng -- launch only English words
+/rus -- launch only Russian words
+/ran  -- launch random words (It might English or Russian translation). Before launch you need to create local dictonary of this words /cr_dict
+/ran10 -- launch random 10 words (It might English or Russian translation). Before launch you need to create loacal list of this words /cr_ran10
+/last20 -- launch random 10 words (It might English or Russian translation). Before launch you need to create loacal list of this words /cr_last20
+/last50 -- launch random 50 words (It might English or Russian translation). Before launch you need to create loacal list of this words /cr_last50
+```
+The dictionary automaticaly updates every night at 12.
+
+Below some information about Reverso API
+
+## reverso_context_api
 Simple Python API for [Reverso Context](https://context.reverso.net)
 
 ## Installation
