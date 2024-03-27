@@ -4,6 +4,9 @@ You need to connect your reverso context accout to this bot and you'll get words
 Now this bot works only with Russian and English dictionary. 
 You'll get words in Russian transation and you need to choose correct option in English. The English words will be as the same.
 
+Also I create connection with transcription and description service. https://api.dictionaryapi.dev/
+When you get a quiz question, you see description of asking word. Then you can tap on the clue and check transcription this word.
+
 You can use command /help for choose correct quiz command. You need to pick command every time after each question.
 
 List of commands:
@@ -27,6 +30,21 @@ Before launch you need to create local list of this words /cr_last20
 Before launch you need to create local list of this words /cr_last50
 ```
 The dictionary automaticaly updates every night at 12.
+
+There are special keys on a quiz card:
+> CARD
+> 
+> D: Description
+> 
+> E: Example in a sentence
+>
+> CLUE
+> 
+> T: Translation the sentence
+> 
+> CA: Correct answer with translation and transcription and other translations words of answers 
+
+_________________________________________________________________________________________________
 
 Below some information about Reverso API.
 
