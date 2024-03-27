@@ -17,7 +17,11 @@ List of commands:
 ```
 The dictionary automaticaly updates every night at 12.
 
-Below some information about Reverso API
+Below some information about Reverso API.
+
+Also here some resourses which helped me to create this bot. I'll add in futher
+
+https://mastergroosha.github.io/telegram-tutorial/docs/lesson_13/
 
 ## reverso_context_api
 Simple Python API for [Reverso Context](https://context.reverso.net)
