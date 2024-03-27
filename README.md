@@ -29,7 +29,7 @@ Before launch you need to create local list of this words /cr_last20
 /last50 -- launch random 50 words (It might English or Russian translation).
 Before launch you need to create local list of this words /cr_last50
 ```
-The dictionary automaticaly updates every night at 12.
+The dictionary automaticaly updates every night at 12 (dict.py)
 
 There are special keys on a quiz card:
 > CARD
