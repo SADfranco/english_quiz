@@ -8,12 +8,23 @@ You can use command /help for choose correct quiz command. You need to pick comm
 
 List of commands:
 ```
-/eng -- launch only English words
+/eng -- launch only English words.
+Before launch you need to create local dictonary of this words /cr_dict.
+
 /rus -- launch only Russian words
-/ran  -- launch random words (It might English or Russian translation). Before launch you need to create local dictonary of this words /cr_dict
-/ran10 -- launch random 10 words (It might English or Russian translation). Before launch you need to create loacal list of this words /cr_ran10
-/last20 -- launch random 10 words (It might English or Russian translation). Before launch you need to create loacal list of this words /cr_last20
-/last50 -- launch random 50 words (It might English or Russian translation). Before launch you need to create loacal list of this words /cr_last50
+Before launch you need to create local dictonary of this words /cr_dict.
+
+/ran  -- launch random words (It might English or Russian translation).
+Before launch you need to create local dictonary of this words /cr_dict.
+
+/ran10 -- launch random 10 words (It might English or Russian translation).
+Before launch you need to create local list of this words /cr_ran10.
+
+/last20 -- launch random 10 words (It might English or Russian translation).
+Before launch you need to create local list of this words /cr_last20
+
+/last50 -- launch random 50 words (It might English or Russian translation).
+Before launch you need to create local list of this words /cr_last50
 ```
 The dictionary automaticaly updates every night at 12.
 
