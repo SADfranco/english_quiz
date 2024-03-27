@@ -5,6 +5,7 @@ Now this bot works only with Russian and English dictionary.
 You'll get words in Russian transation and you need to choose correct option in English. The English words will be as the same.
 
 Also I create connection with transcription and description service. (https://dictionaryapi.dev/)
+
 When you get a quiz question, you see description of asking word. Then you can tap on the clue and check transcription this word.
 
 - The main file of telegram bot is quiz_bot.py
